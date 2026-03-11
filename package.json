@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": " https://aiykay.github.io/Responsive-Navbar/",
+  "homepage": "https://github.com/Aiykay/Responsive-Navbar",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
